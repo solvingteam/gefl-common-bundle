@@ -1,0 +1,6 @@
+code: gefl-faq
+titles:
+  en: GE FL FAQ
+  it: GE FL FAQ
+group: free
+customUiPath: mfe-faq.ftl

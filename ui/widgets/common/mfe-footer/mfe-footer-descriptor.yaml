@@ -1,0 +1,6 @@
+code: gefl-footer
+titles:
+  en: GE FL Footer
+  it: GE FL Footer
+group: free
+customUiPath: mfe-footer.ftl

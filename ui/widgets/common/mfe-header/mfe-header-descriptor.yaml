@@ -1,0 +1,6 @@
+code: gefl-header
+titles:
+  en: GE FL Header
+  it: GE FL Header
+group: free
+customUiPath: mfe-header.ftl
