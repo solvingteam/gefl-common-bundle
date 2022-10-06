@@ -1,0 +1,10 @@
+code: common-bundle
+description: This is the common bundle
+
+components:
+  widgets:
+    - ui/mfe-faq/mfe-faq-descriptor.yaml
+    - ui/mfe-footer/mfe-footer-descriptor.yaml
+    - ui/mfe-header/mfe-header-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
